@@ -82,7 +82,7 @@ function Header() {
             className="text-md font-medium hover:underline web:underline-offset-4"
             href="https://www.papareact.com/course"
           >
-            Join My Course ❤️
+            Join My Cours ❤️
           </Link>
         </View>
       </View>

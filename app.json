@@ -12,9 +12,13 @@
         {
           "origin": "https://n"
         }
-      ]
+      ],
+      "expo-web-browser"
     ],
     "name": "fit-app",
-    "slug": "fit-app"
+    "slug": "fit-app",
+    "android": {
+      "package": "com.anonymous.fitapp"
+    }
   }
 }
